@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.peng-img img{
+    width: 350px;
+}
+.oneshoe-img img{
+    width: 80%;
+}
+.peng-card img{
+    
+    width: 80%;
+}
+.peng-card{
+    background-color: ghostwhite;
+    border: 0;
+}
+.peng-card-footer{
+    border: 0;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+}
+
+.category h4{
+    font-weight: bold;
+    color: #f9804b;
+}
+.shopping img{
+    width: 100px;
+    padding: 10px;
+    margin-right: 5px;
+}
+.corner{
+    height: 150px;
+    background-color: white;
+    border: 0;
+    border-radius: 8px;
+}
+
+.mobile img{
+    width: 100%;
+}
